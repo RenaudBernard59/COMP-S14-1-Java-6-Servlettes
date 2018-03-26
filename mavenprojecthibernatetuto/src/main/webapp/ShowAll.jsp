@@ -2,9 +2,13 @@
     Document   : Success
     Created on : 2 Oct, 2016, 12:39:19 PM
     Author     : Admin
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 --%>
 <%@ page language="java" %>
+
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+
 
 <!DOCTYPE html>
 <html>
